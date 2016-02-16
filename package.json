@@ -1,0 +1,26 @@
+{
+	"name": "plugbot",
+	"version": "1.1.3",
+	"description": "Wrapper of telegram-bot-api + plugin support",
+	"main": "./bin/plugbot.js",
+	"dependencies": {
+		"telegram-bot-api": "^0.3.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fcannizzaro/plugbot.git"
+	},
+	"keywords": [
+    "plugbot", "telegram-bot"
+  ],
+	"author": "Francesco Cannizzaro",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/fcannizzaro/plugbot/issues"
+	},
+	"homepage": "https://github.com/fcannizzaro/plugbot"
+}
